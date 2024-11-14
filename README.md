@@ -3,6 +3,9 @@
 ## About
 
 Outlandishly Gregtech is an addon for GTCEu Modern that integrates a varaity of mods into GTCEu Modern 1.20.1 for the Outlandish Revalations Modpack.
+Original Author: Tybob12
+
+This fork is to continue the abandoned project of Tybob12, and to continue it for the Modpack Author TheRanker
 
 ## Downloads
 
